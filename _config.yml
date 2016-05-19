@@ -1,0 +1,28 @@
+name: Pride and Purpose
+favicon: null
+layout_spectrum: 0.6396898678503931
+typography_spectrum: 0.5868798277806491
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.41118640499189496
+  lightness: 0.7114156589377671
+  saturation: 0.844847823958844
+  rhythmicContrast: 0.5414504841901362
+purpose: []
